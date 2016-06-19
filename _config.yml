@@ -38,7 +38,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
@@ -88,15 +88,15 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "군복무 중"
   location         : "서울특별시 용산구 국방부"
-  email            :
+  email            : "wwa098@kaist.ac.kr"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/suehwan"
   foursquare       :
-  github           :
+  github           : "https://github.com/shkevinlee"
   google_plus      :
   keybase          :
   instagram        :
